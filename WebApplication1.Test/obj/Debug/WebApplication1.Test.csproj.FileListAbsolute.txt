@@ -1,0 +1,30 @@
+C:\Users\Mark\documents\visual studio 2015\Projects\SMARTonFhirLearning\WebApplication1.Test\bin\Debug\specification.zip
+C:\Users\Mark\documents\visual studio 2015\Projects\SMARTonFhirLearning\WebApplication1.Test\bin\Debug\WebApplication1.Test.dll
+C:\Users\Mark\documents\visual studio 2015\Projects\SMARTonFhirLearning\WebApplication1.Test\bin\Debug\WebApplication1.Test.pdb
+C:\Users\Mark\documents\visual studio 2015\Projects\SMARTonFhirLearning\WebApplication1.Test\bin\Debug\Hl7.Fhir.DSTU2.Core.dll
+C:\Users\Mark\documents\visual studio 2015\Projects\SMARTonFhirLearning\WebApplication1.Test\bin\Debug\Hl7.Fhir.DSTU2.Specification.dll
+C:\Users\Mark\documents\visual studio 2015\Projects\SMARTonFhirLearning\WebApplication1.Test\bin\Debug\Hl7.FhirPath.dll
+C:\Users\Mark\documents\visual studio 2015\Projects\SMARTonFhirLearning\WebApplication1.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mark\documents\visual studio 2015\Projects\SMARTonFhirLearning\WebApplication1.Test\bin\Debug\Hl7.Fhir.DSTU2.Core.xml
+C:\Users\Mark\documents\visual studio 2015\Projects\SMARTonFhirLearning\WebApplication1.Test\bin\Debug\Hl7.Fhir.DSTU2.Specification.xml
+C:\Users\Mark\documents\visual studio 2015\Projects\SMARTonFhirLearning\WebApplication1.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mark\documents\visual studio 2015\Projects\SMARTonFhirLearning\WebApplication1.Test\obj\Debug\WebApplication1.Test.dll
+C:\Users\Mark\documents\visual studio 2015\Projects\SMARTonFhirLearning\WebApplication1.Test\obj\Debug\WebApplication1.Test.pdb
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\SMARTonFhirLearning\WebApplication1.Test\obj\Debug\WebApplication1.Test.csprojAssemblyReference.cache
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\SMARTonFhirLearning\WebApplication1.Test\obj\Debug\WebApplication1.Test.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\SMARTonFhirLearning\WebApplication1.Test\obj\Debug\WebApplication1.Test.csproj.CopyComplete
+C:\Temp\SMARTonFhirLearning\WebApplication1.Test\bin\Debug\specification.zip
+C:\Temp\SMARTonFhirLearning\WebApplication1.Test\bin\Debug\WebApplication1.Test.dll
+C:\Temp\SMARTonFhirLearning\WebApplication1.Test\bin\Debug\WebApplication1.Test.pdb
+C:\Temp\SMARTonFhirLearning\WebApplication1.Test\bin\Debug\Hl7.Fhir.DSTU2.Core.dll
+C:\Temp\SMARTonFhirLearning\WebApplication1.Test\bin\Debug\Hl7.Fhir.DSTU2.Specification.dll
+C:\Temp\SMARTonFhirLearning\WebApplication1.Test\bin\Debug\Hl7.FhirPath.dll
+C:\Temp\SMARTonFhirLearning\WebApplication1.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Temp\SMARTonFhirLearning\WebApplication1.Test\bin\Debug\Hl7.Fhir.DSTU2.Core.xml
+C:\Temp\SMARTonFhirLearning\WebApplication1.Test\bin\Debug\Hl7.Fhir.DSTU2.Specification.xml
+C:\Temp\SMARTonFhirLearning\WebApplication1.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Temp\SMARTonFhirLearning\WebApplication1.Test\obj\Debug\WebApplication1.Test.csprojAssemblyReference.cache
+C:\Temp\SMARTonFhirLearning\WebApplication1.Test\obj\Debug\WebApplication1.Test.csproj.CoreCompileInputs.cache
+C:\Temp\SMARTonFhirLearning\WebApplication1.Test\obj\Debug\WebApplication1.Test.csproj.CopyComplete
+C:\Temp\SMARTonFhirLearning\WebApplication1.Test\obj\Debug\WebApplication1.Test.dll
+C:\Temp\SMARTonFhirLearning\WebApplication1.Test\obj\Debug\WebApplication1.Test.pdb
